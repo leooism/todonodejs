@@ -1,0 +1,19 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "simple to do app that add and remote and most importantly it uses mybackend for crud operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leooism/todonodejs.git"
+  },
+  "author": "Bidhan Bhandari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leooism/todonodejs/issues"
+  },
+  "homepage": "https://github.com/leooism/todonodejs#readme"
+}
